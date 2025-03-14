@@ -1,2 +1,2 @@
-# MIPS
-mips assemble
+# School
+School assignments and projects
